@@ -1,6 +1,6 @@
 # Hi there 👋
-## 👩‍💻 We offer [OKR software and coaching](https://weekdone.com/) to ensure a results-driven company culture.
-### 🧙 [...And we have an API](https://weekdone.com/developer)
+## We offer [👩‍ OKR software and coaching](https://weekdone.com/) to ensure a results-driven company culture.
+### [...And we have an 🧙 API ✨](https://weekdone.com/developer)
 
 
 <!--
