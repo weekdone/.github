@@ -18,4 +18,5 @@ jobs:
           comment_tag_name: "TWITTER"
           commit_message: "Updated readme with the latest Tweets data"          
           title_max_length: "256"
+          description_max_length: "256"
           readme_path: "./profile/README.md"
