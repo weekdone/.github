@@ -3,28 +3,30 @@
 
 
 ## We offer [OKR software and coaching](https://weekdone.com/) to ensure a 👩‍💻 results-driven company culture.
-[![iOS rating](https://img.shields.io/badge/dynamic/json?color=000&label=⭐&logo=AppStore&logoColor=white&style=flat&query=%24.results%5B%3A1%5D.averageUserRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
-[![Android](https://img.shields.io/badge/⭐-★★★★☆-informational?logo=GooglePlay&style=flat&color=000)](https://play.google.com/store/apps/details?id=com.weekdone.android)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=⭐&logo=GoogleChrome&logoColor=white&style=flat)](https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj)
+
+
+[![iOS rating](https://img.shields.io/badge/dynamic/json?color=000&label=:&logo=AppStore&logoColor=000&style=flat&query=%24.results%5B%3A1%5D.averageUserRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
+[![Android](https://img.shields.io/badge/:-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=000)](https://play.google.com/store/apps/details?id=com.weekdone.android)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=:&logo=GoogleChrome&logoColor=000&style=flat)](https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj)
 
 ...and we have [an 🧙 API ](https://weekdone.com/developer) <img src="/profile/2728.gif" height="26px" alt="✨">
 
-***
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=1DA1F2&label=&logo=twitter&logoColor=fff&style=flat)](https://twitter.com/weekdone) 
-[![Facebook](https://img.shields.io/badge/-★5-informational?logo=Facebook&color=1877F2&logoColor=fff&style=flat)](https://facebook.com/weekdone) 
-[![LinkedIn](https://img.shields.io/badge/--informational?logo=linkedin&color=0072b1&logoColor=fff&style=flat)](https://linkedin.com/company/weekdone) 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=f00&logoColor=fff&label=&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
-[![Dribbble](https://img.shields.io/badge/--informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
-
- 
-
-> [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)
+> [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)  
 
 
-<details open>
+[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=1DA1F2&label=:&logo=twitter&logoColor=fff&style=flat)](https://twitter.com/weekdone) 
+[![Facebook](https://img.shields.io/badge/:-5/5-informational?logo=Facebook&color=1877F2&logoColor=fff&style=flat)](https://facebook.com/weekdone) 
+[![LinkedIn](https://img.shields.io/badge/:-hiring-informational?logo=linkedin&color=0072b1&logoColor=fff&style=flat)](https://linkedin.com/company/weekdone) 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=f00&logoColor=fff&label=:&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
+[![Dribbble](https://img.shields.io/badge/:-pro-informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
+
+
+<details>
 <summary>✍ blog.weekdone.com</summary>
 
+***
+ 
 <!-- BLOG-POST-LIST:START -->
 - [Better Project Execution for Remote Teams](https://blog.weekdone.com/project-execution-remote-teams/)
 - [Ultimate Guide to Team Objectives: How To Set Goals as a Team](https://blog.weekdone.com/team-objectives/)
@@ -37,7 +39,8 @@
 <details>
 <summary>🐦 @weekdone tweets</summary>
   
-### [twitter@weekdone](https://twitter.com/weekdone)
+***
+ 
 <!-- TWITTER:START -->
 - [Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedbac...](https://twitter.com/weekdone/status/1527635605085163520)
 - [Are you using intrinsic rewards to keep your employees motivated for the long haul? Read our recent blog post sharing the benefi...](https://twitter.com/weekdone/status/1522592360865366017)
@@ -50,7 +53,8 @@
 <details>
 <summary>🎬 Youtube videos</summary>
   
-###  [youtube/weekdone](https://youtube.com/user/weekdone) 
+***
+ 
 <!-- YOUTUBE:START -->
 - [OKR Examples for Sales Teams](https://www.youtube.com/watch?v=1pnPr9YYLmM)
 - [OKR Examples for Product Team](https://www.youtube.com/watch?v=nWkkWyq5td8)
@@ -63,7 +67,7 @@
 ***
 
 [![Capterra](https://img.shields.io/badge/Capterra-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?style=flat&logoColor=fff&color=00E676)](https://www.capterra.com/p/165423/Weekdone/)
-[![G2](https://img.shields.io/badge/⭐-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=G2&style=flat&logoColor=fff&color=00E676)](https://www.g2.com/products/weekdone)
+[![G2](https://img.shields.io/badge/:-★★★★1⁄2-informational?logo=G2&style=flat&logoColor=fff&color=00E676)](https://www.g2.com/products/weekdone)
 
 <!--
 
