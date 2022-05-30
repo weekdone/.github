@@ -5,9 +5,13 @@
 
 ***
 
-> #### [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)
+> ### [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)
 
-### [✍ Blog](https://blog.weekdone.com/)
+
+<details open>
+<summary>✍ from our blog</summary>
+
+### [blog.weekdone](https://blog.weekdone.com)
 <!-- BLOG-POST-LIST:START -->
 - [Better Project Execution for Remote Teams](https://blog.weekdone.com/project-execution-remote-teams/)
 - [Ultimate Guide to Team Objectives: How To Set Goals as a Team](https://blog.weekdone.com/team-objectives/)
@@ -15,8 +19,12 @@
 - [Interview: The Fundamentals of Remote Team Reporting](https://blog.weekdone.com/fundamentals-of-remote-team-reporting/)
 - [1:1 Weekly Review Template for Team Leaders [Infographic]](https://blog.weekdone.com/weekly-review-template-for-team-managers/)
 <!-- BLOG-POST-LIST:END -->
+  </details>
 
-### [🐦 @weekdone](https://twitter.com/weekdone) 
+<details>
+<summary>🐦 @weekdone tweets</summary>
+  
+### [twitter@weekdone](https://twitter.com/weekdone)
 <!-- TWITTER:START -->
 - [Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedbac...](https://twitter.com/weekdone/status/1527635605085163520)
 - [Are you using intrinsic rewards to keep your employees motivated for the long haul? Read our recent blog post sharing the benefi...](https://twitter.com/weekdone/status/1522592360865366017)
@@ -24,8 +32,12 @@
 - [Zoom burnout - heard of it? Maybe you&#39;ve even felt it during a team meeting over the last few years. We&#39;ve all be there! ✋ This...](https://twitter.com/weekdone/status/1504835372538335233)
 - [Weekdone is proud to be named in @SaaSHubCom&#39;s weekly list of trending and featured products. 🎯](https://twitter.com/weekdone/status/1504734415842336771)
 <!-- TWITTER:END -->
+ </details>
 
-###  [🎬 Youtube](https://youtube.com/user/weekdone) 
+<details>
+<summary>🎬 Youtube videos</summary>
+  
+###  [youtube/weekdone](https://youtube.com/user/weekdone) 
 <!-- YOUTUBE:START -->
 - [OKR Examples for Sales Teams](https://www.youtube.com/watch?v=1pnPr9YYLmM)
 - [OKR Examples for Product Team](https://www.youtube.com/watch?v=nWkkWyq5td8)
@@ -33,6 +45,7 @@
 - [Marketing Team OKR Example](https://www.youtube.com/watch?v=-ojNTWKQgWk)
 - [OKR example for HR](https://www.youtube.com/watch?v=oLgJ6nIHPH0)
 <!-- YOUTUBE:END -->
+</details>
 
 <!--
 
