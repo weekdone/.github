@@ -14,6 +14,11 @@
 
 ### From Youtube 🎬
 <!-- YOUTUBE:START -->
+- [OKR Examples for Sales Teams](https://www.youtube.com/watch?v=1pnPr9YYLmM)
+- [OKR Examples for Product Team](https://www.youtube.com/watch?v=nWkkWyq5td8)
+- [How to set good OKRs](https://www.youtube.com/watch?v=l6tJJwoA1HY)
+- [Marketing Team OKR Example](https://www.youtube.com/watch?v=-ojNTWKQgWk)
+- [OKR example for HR](https://www.youtube.com/watch?v=oLgJ6nIHPH0)
 <!-- YOUTUBE:END -->
 
 
