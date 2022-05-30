@@ -3,7 +3,10 @@
 
 
 ## We offer [OKR software and coaching](https://weekdone.com/) to ensure a 👩‍💻 results-driven company culture.
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/weekdone) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/weekdone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/company/weekdone) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/user/weekdone) 
+![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=%231DA1F2&label=%40weekdone&logo=twitter&logoColor=%23fff&style=flat-square)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square)](https://facebook.com/weekdone) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/company/weekdone) 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=%23FF0000&label=YouTube&logo=youtube&style=flat-square)
 ### ...and we have [an 🧙 API ✨](https://weekdone.com/developer)
 
 ***
