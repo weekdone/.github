@@ -3,9 +3,10 @@
 
 
 ## We offer [OKR software and coaching](https://weekdone.com/) to ensure a 👩‍💻 results-driven company culture.
-...and we have [an 🧙 API ✨](https://weekdone.com/developer)
+[![iOS rating](https://img.shields.io/badge/dynamic/json?color=%2300E676&label=iOS®&logo=AppStore&logoColor=white&style=flat-square&query=%24.results%5B%3A1%5D.trackContentRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
+[![Android](https://img.shields.io/badge/Android%E2%84%A2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=GooglePlay&style=flat-square&color=%2300E676)](https://play.google.com/store/apps/details?id=com.weekdone.android)
 
-[![iOS rating](https://img.shields.io/badge/dynamic/json?color=%23000&label=iOS®%20app&logo=AppStore&logoColor=white&style=flat-square&query=%24.results%5B%3A1%5D.trackContentRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
+...and we have [an 🧙 API ✨](https://weekdone.com/developer)
 
 ***
 
