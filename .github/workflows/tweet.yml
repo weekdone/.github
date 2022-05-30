@@ -17,6 +17,6 @@ jobs:
           feed_list: "https://rss.app/feeds/IzQecSRaebCYbqBa.xml"
           comment_tag_name: "TWEET"
           commit_message: "Updated readme with the latest Tweet"          
-          template: "  > [$title]($url)  "
+          template: "[$title]($url)"
           max_post_count: "1"
           readme_path: "./profile/README.md"
