@@ -5,8 +5,7 @@
 
 ***
 
-> <!-- TWEET:START -->
-<!-- TWEET:END -->
+> <!-- TWEET:START -->[Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍](https://twitter.com/weekdone/status/1527635605085163520)<!-- TWEET:END -->
 
 ### [✍ Blog](https://blog.weekdone.com/)
 <!-- BLOG-POST-LIST:START -->
