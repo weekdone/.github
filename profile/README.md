@@ -1,4 +1,7 @@
-# Hi there 👋
+# Hi there <img src="/profile/1F44B.gif" height="30px" alt="👋">
+
+
+
 ## We offer [OKR software and coaching](https://weekdone.com/) to ensure a 👩‍💻 results-driven company culture.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/weekdone) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/weekdone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/company/weekdone) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/user/weekdone) 
 ### ...and we have [an 🧙 API ✨](https://weekdone.com/developer)
@@ -11,7 +14,7 @@
 <details open>
 <summary>✍ from our blog</summary>
 
-### [blog.weekdone](https://blog.weekdone.com)
+### [blog.weekdone.com](https://blog.weekdone.com)
 <!-- BLOG-POST-LIST:START -->
 - [Better Project Execution for Remote Teams](https://blog.weekdone.com/project-execution-remote-teams/)
 - [Ultimate Guide to Team Objectives: How To Set Goals as a Team](https://blog.weekdone.com/team-objectives/)
