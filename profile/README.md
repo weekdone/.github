@@ -5,8 +5,7 @@
 
 ***
 
-<!-- TWEET:START -->
-<!-- TWEET:END -->
+<!-- TWEET:START -->> [Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍](https://twitter.com/weekdone/status/1527635605085163520)> [Are you using intrinsic rewards to keep your employees motivated for the long haul? Read our recent blog post sharing the benefits of intrinsic over extrinsic rewards, and creative ways to start using them today!](https://twitter.com/weekdone/status/1522592360865366017)> [Interested in the current trends in team management, predictions of the future of remote work, and lessons learned from building top internal communication systems? Look no further than our recent interview with co-founder and CEO of Weekdone!](https://twitter.com/weekdone/status/1517488834073792513)> [Zoom burnout - heard of it? Maybe you&#39;ve even felt it during a team meeting over the last few years. We&#39;ve all be there! ✋ This article shares some research behind why Zoom can be so exhausting and tips to help alleviate some of that fatigue!](https://twitter.com/weekdone/status/1504835372538335233)> [Weekdone is proud to be named in @SaaSHubCom&#39;s weekly list of trending and featured products. 🎯](https://twitter.com/weekdone/status/1504734415842336771)<!-- TWEET:END -->
 
 ### [✍ Blog](https://blog.weekdone.com/)
 <!-- BLOG-POST-LIST:START -->
