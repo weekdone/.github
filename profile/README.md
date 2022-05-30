@@ -3,19 +3,19 @@
 
 
 ## We offer [OKR software and coaching](https://weekdone.com/) to ensure a 👩‍💻 results-driven company culture.
-[![iOS rating](https://img.shields.io/badge/dynamic/json?color=000&label=⭐&logo=AppStore&logoColor=white&style=flat-square&query=%24.results%5B%3A1%5D.averageUserRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
-[![Android](https://img.shields.io/badge/⭐-★★★★☆-informational?logo=GooglePlay&style=flat-square&color=000)](https://play.google.com/store/apps/details?id=com.weekdone.android)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=⭐&logo=GoogleChrome&logoColor=white&style=flat-square)](https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj)
+[![iOS rating](https://img.shields.io/badge/dynamic/json?color=000&label=⭐&logo=AppStore&logoColor=white&style=flat&query=%24.results%5B%3A1%5D.averageUserRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
+[![Android](https://img.shields.io/badge/⭐-★★★★☆-informational?logo=GooglePlay&style=flat&color=000)](https://play.google.com/store/apps/details?id=com.weekdone.android)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=⭐&logo=GoogleChrome&logoColor=white&style=flat)](https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj)
 
 ...and we have [an 🧙 API ](https://weekdone.com/developer) <img src="/profile/2728.gif" height="26px" alt="✨">
 
 ***
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=000&label=&logo=twitter&logoColor=1DA1F2&style=flat-square)](https://twitter.com/weekdone) 
-[![Facebook](https://img.shields.io/badge/-★5-informational?logo=Facebook&color=000&logoColor=4267B2&style=flat-square)](https://facebook.com/weekdone) 
-[![LinkedIn](https://img.shields.io/badge/--informational?logo=linkedin&color=000&logoColor=0072b1&style=flat-square)](https://linkedin.com/company/weekdone) 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=000&logoColor=f00&label=&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
-[![Dribbble](https://img.shields.io/badge/--informational?logo=dribbble&color=000&logoColor=ea4c89&style=flat-square)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=1DA1F2&label=&logo=twitter&logoColor=fff&style=flat)](https://twitter.com/weekdone) 
+[![Facebook](https://img.shields.io/badge/-★5-informational?logo=Facebook&color=1877F2&logoColor=fff&style=flat)](https://facebook.com/weekdone) 
+[![LinkedIn](https://img.shields.io/badge/--informational?logo=linkedin&color=0072b1&logoColor=fff&style=flat)](https://linkedin.com/company/weekdone) 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=f00&logoColor=fff&label=&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
+[![Dribbble](https://img.shields.io/badge/--informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
 
  
 
@@ -62,8 +62,8 @@
 
 ***
 
-[![Capterra](https://img.shields.io/badge/Capterra-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?style=flat-square&color=%2300E676)](https://www.capterra.com/p/165423/Weekdone/)
-[![G2](https://img.shields.io/badge/G2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=G2&style=flat-square&color=%2300E676)](https://www.g2.com/products/weekdone)
+[![Capterra](https://img.shields.io/badge/Capterra-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?style=flat&logoColor=fff&color=00E676)](https://www.capterra.com/p/165423/Weekdone/)
+[![G2](https://img.shields.io/badge/⭐-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=G2&style=flat&logoColor=fff&color=00E676)](https://www.g2.com/products/weekdone)
 
 <!--
 
