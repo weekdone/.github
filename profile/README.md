@@ -15,8 +15,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square)](https://facebook.com/weekdone) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/company/weekdone) 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=%23FF0000&label=YouTube&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
-[![Capterra](https://img.shields.io/badge/Capterra-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?style=flat-square&color=%2300E676)](https://www.capterra.com/p/165423/Weekdone/)
-[![G2](https://img.shields.io/badge/G2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=G2&style=flat-square&color=%2300E676)](https://www.g2.com/products/weekdone)
 
 > ### [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)
 
@@ -59,6 +57,11 @@
 - [OKR example for HR](https://www.youtube.com/watch?v=oLgJ6nIHPH0)
 <!-- YOUTUBE:END -->
 </details>
+
+***
+
+[![Capterra](https://img.shields.io/badge/Capterra-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?style=flat-square&color=%2300E676)](https://www.capterra.com/p/165423/Weekdone/)
+[![G2](https://img.shields.io/badge/G2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=G2&style=flat-square&color=%2300E676)](https://www.g2.com/products/weekdone)
 
 <!--
 
