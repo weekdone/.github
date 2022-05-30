@@ -11,18 +11,20 @@
 
 ***
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=000&label=&logo=twitter&logoColor=2979ff&style=flat-square)](https://twitter.com/weekdone) 
-[![Facebook](https://img.shields.io/badge/-★5-informational?logo=Facebook&color=000&logoColor=2979ff&style=flat-square)](https://facebook.com/weekdone) 
-[![LinkedIn](https://img.shields.io/badge/--informational?logo=linkedin&color=000&logoColor=2979ff&style=flat-square)](https://linkedin.com/company/weekdone) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=000&label=&logo=twitter&logoColor=1DA1F2&style=flat-square)](https://twitter.com/weekdone) 
+[![Facebook](https://img.shields.io/badge/-★5-informational?logo=Facebook&color=000&logoColor=4267B2&style=flat-square)](https://facebook.com/weekdone) 
+[![LinkedIn](https://img.shields.io/badge/--informational?logo=linkedin&color=000&logoColor=0072b1&style=flat-square)](https://linkedin.com/company/weekdone) 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=000&logoColor=f00&label=&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
+[![Dribbble](https://img.shields.io/badge/--informational?logo=dribbble&color=000&logoColor=ea4c89&style=flat-square)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
+
+ 
 
 > [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)
 
 
 <details open>
-<summary>✍ from our blog</summary>
+<summary>✍ blog.weekdone.com</summary>
 
-### [blog.weekdone.com](https://blog.weekdone.com)
 <!-- BLOG-POST-LIST:START -->
 - [Better Project Execution for Remote Teams](https://blog.weekdone.com/project-execution-remote-teams/)
 - [Ultimate Guide to Team Objectives: How To Set Goals as a Team](https://blog.weekdone.com/team-objectives/)
