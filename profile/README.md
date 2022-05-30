@@ -3,9 +3,11 @@
 
 
 ## We offer [OKR software and coaching](https://weekdone.com/) to ensure a 👩‍💻 results-driven company culture.
-[![iOS rating](https://img.shields.io/badge/dynamic/json?color=%2300E676&label=iOS®&logo=AppStore&logoColor=white&style=flat-square&query=%24.results%5B%3A1%5D.trackContentRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
+[![Capterra](https://img.shields.io/badge/Capterra-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?style=flat-square&color=%2300E676)](https://www.capterra.com/p/165423/Weekdone/)
+[![G2](https://img.shields.io/badge/G2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=G2&style=flat-square&color=%2300E676)](https://www.g2.com/products/weekdone)
+[![iOS rating](https://img.shields.io/badge/dynamic/json?color=%2300E676&label=iOS®&logo=AppStore&style=flat-square&query=%24.results%5B%3A1%5D.trackContentRating&url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D668008030)](https://apps.apple.com/app/weekdone/id668008030)
 [![Android](https://img.shields.io/badge/Android%E2%84%A2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-informational?logo=GooglePlay&style=flat-square&color=%2300E676)](https://play.google.com/store/apps/details?id=com.weekdone.android)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=00E676&label=Chrome&logo=GoogleChrome&logoColor=%23fff&style=flat-square)](https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=00E676&label=Chrome&logo=GoogleChrome&style=flat-square)](https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj)
 
 ...and we have [an 🧙 API ✨](https://weekdone.com/developer)
 
