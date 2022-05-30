@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there <img src="/profile/1F44B.gif" height="30px" alt="👋">
+    Hi there <img src="/profile/1F44B.gif" height="32px" alt="👋">
 </h1>
 
 <h2 align="center">
@@ -8,14 +8,14 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 
 
 <p align="center">
-...and we have <a href="https://weekdone.com/developer">an 🧙 API</a><img src="/profile/2728.gif" height="26px" alt="✨">
+...and we have <a href="https://weekdone.com/developer">an 🧙 API</a><img src="/profile/2728.gif" height="16px" alt="✨">
 </p>
  
 
 <p align="center">
-<a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/:-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=00E5FF" height="32px" alt="✨"></a> 
-<a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/:-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=00E5FF" height="32px" alt="✨"></a> 
-<a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=:&logo=GoogleChrome&logoColor=00E5FF&style=flat" height="32px" alt="✨"></a>
+<a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/:-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/:-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
+<a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=:&logo=GoogleChrome&logoColor=00E5FF&style=flat" height="24px" alt="✨"></a>
 </p> 
 
 > [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)  
