@@ -69,13 +69,16 @@
 [![Dribbble](https://img.shields.io/badge/%E2%80%8E-pro-informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
 
 > [..] apps for the corporate world that take a consumer approach in terms of design, simplicity, social-esque features and a single-use focus.
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/TechCrunch_logo.svg" alt="TC" height="24px">
+
+<a href="https://weekdone.com/about/press"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/TechCrunch_logo.svg" alt="TC" height="24px"></a>
 
 > Over 400 startups applied, but only 100 startups had the chance to compete over the last two days. Just four startups became finalists. Here is the winner of the lightweight track: Weekdone, a startup that wants to help you literally get your week done.
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Business_Insider_Logo.svg" alt="BI" height="24px">
+
+<a href="https://weekdone.com/about/press"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Business_Insider_Logo.svg" alt="BI" height="24px"></a>
 
 > Teams are the way that most companies get important work done. When you combine the energy, knowledge, and skills of a motivated group of people, then you and your team can accomplish anything you set your minds to.
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Inc._%28business_magazine%29_logo.svg" alt="INC" height="24px">
+
+<a href="https://weekdone.com/about/press"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Inc._%28business_magazine%29_logo.svg" alt="INC" height="24px"></a>
 
 
 [![Capterra](https://img.shields.io/badge/Capterra-★★★★☆-informational?style=flat&logoColor=fff&color=000)](https://www.capterra.com/p/165423/Weekdone/)
