@@ -10,12 +10,10 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 <p align="center">
 ...and we have <a href="https://weekdone.com/developer">an 🧙 API</a><img src="/profile/2728.gif" height="16px" alt="✨">
 </p>
- 
-<p align="center"> 
- <img src="https://weekdone.com/favicon.svg" height="64px" alt="Weekdone"></a>
-</p>
+
 
 <p align="center">
+<img src="https://weekdone.com/favicon.svg" height="24px" alt="Weekdone"> 
 <a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
 <a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
 <a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=%E2%80%8E&logo=GoogleChrome&logoColor=00E5FF&style=flat" height="24px" alt="✨"></a>
@@ -63,15 +61,13 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 <!-- YOUTUBE:END -->
 </details>
 
+***
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=1DA1F2&label=%E2%80%8E&logo=twitter&logoColor=fff&style=flat)](https://twitter.com/weekdone) 
 [![Facebook](https://img.shields.io/badge/%E2%80%8E-5/5-informational?logo=Facebook&color=1877F2&logoColor=fff&style=flat)](https://facebook.com/weekdone) 
 [![LinkedIn](https://img.shields.io/badge/%E2%80%8E-hiring-informational?logo=linkedin&color=0072b1&logoColor=fff&style=flat)](https://linkedin.com/company/weekdone) 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=f00&logoColor=fff&label=%E2%80%8E&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
 [![Dribbble](https://img.shields.io/badge/%E2%80%8E-pro-informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
-
-***
-
 
 > [..] apps for the corporate world that take a consumer approach in terms of design, simplicity, social-esque features and a single-use focus.
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/TechCrunch_logo.svg" alt="TC" height="24px">
