@@ -11,11 +11,14 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 ...and we have <a href="https://weekdone.com/developer">an 🧙 API</a><img src="/profile/2728.gif" height="16px" alt="✨">
 </p>
  
+<p align="center"> 
+ <img src="https://weekdone.com/favicon.svg" height="64px" alt="Weekdone"></a>
+</p>
 
 <p align="center">
-<a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/:-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
-<a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/:-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
-<a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=:&logo=GoogleChrome&logoColor=00E5FF&style=flat" height="24px" alt="✨"></a>
+<a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
+<a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=%E2%80%8E&logo=GoogleChrome&logoColor=00E5FF&style=flat" height="24px" alt="✨"></a>
 </p> 
 
 > [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)  
@@ -67,16 +70,16 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 </details>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=1DA1F2&label=:&logo=twitter&logoColor=fff&style=flat)](https://twitter.com/weekdone) 
-[![Facebook](https://img.shields.io/badge/:-5/5-informational?logo=Facebook&color=1877F2&logoColor=fff&style=flat)](https://facebook.com/weekdone) 
-[![LinkedIn](https://img.shields.io/badge/:-hiring-informational?logo=linkedin&color=0072b1&logoColor=fff&style=flat)](https://linkedin.com/company/weekdone) 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=f00&logoColor=fff&label=:&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
-[![Dribbble](https://img.shields.io/badge/:-pro-informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/weekdone?color=1DA1F2&label=%E2%80%8E&logo=twitter&logoColor=fff&style=flat)](https://twitter.com/weekdone) 
+[![Facebook](https://img.shields.io/badge/%E2%80%8E-5/5-informational?logo=Facebook&color=1877F2&logoColor=fff&style=flat)](https://facebook.com/weekdone) 
+[![LinkedIn](https://img.shields.io/badge/%E2%80%8E-hiring-informational?logo=linkedin&color=0072b1&logoColor=fff&style=flat)](https://linkedin.com/company/weekdone) 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=f00&logoColor=fff&label=%E2%80%8E&logo=youtube&style=flat-square)](https://youtube.com/user/weekdone) 
+[![Dribbble](https://img.shields.io/badge/%E2%80%8E-pro-informational?logo=dribbble&color=ea4c89&logoColor=fff&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
 
 ***
 
 [![Capterra](https://img.shields.io/badge/Capterra-★★★★☆-informational?style=flat&logoColor=fff&color=000)](https://www.capterra.com/p/165423/Weekdone/)
-[![G2](https://img.shields.io/badge/:-★★★★½-informational?logo=G2&style=flat&logoColor=fff&color=000)](https://www.g2.com/products/weekdone)
+[![G2](https://img.shields.io/badge/%E2%80%8E-★★★★½-informational?logo=G2&style=flat&logoColor=fff&color=000)](https://www.g2.com/products/weekdone)
 
 <!--
 
