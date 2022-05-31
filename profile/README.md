@@ -19,17 +19,17 @@
 </p> 
 
 > [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)  
-> > <details>
-> > <summary><a href="https://twitter.com/weekdone">@weekdone</a> tweets</summary>
-> >
-> > <!-- TWITTER:START -->
+
+<details>
+<summary><a href="https://twitter.com/weekdone">@weekdone</a> tweets</summary>
+<!-- TWITTER:START -->
 - [Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedbac...](https://twitter.com/weekdone/status/1527635605085163520)
 - [Are you using intrinsic rewards to keep your employees motivated for the long haul? Read our recent blog post sharing the benefi...](https://twitter.com/weekdone/status/1522592360865366017)
 - [Interested in the current trends in team management, predictions of the future of remote work, and lessons learned from building...](https://twitter.com/weekdone/status/1517488834073792513)
 - [Zoom burnout - heard of it? Maybe you&#39;ve even felt it during a team meeting over the last few years. We&#39;ve all be there! ✋ This...](https://twitter.com/weekdone/status/1504835372538335233)
 - [Weekdone is proud to be named in @SaaSHubCom&#39;s weekly list of trending and featured products. 🎯](https://twitter.com/weekdone/status/1504734415842336771)
 <!-- TWITTER:END -->
-> > </details>
+</details>
 
 
 <details>
