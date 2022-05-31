@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure a 👩‍💻 results-driven company culture.
+<img src="https://weekdone.com/favicon.svg" height="20px" alt="Weekdone"> We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure a 👩‍💻 results-driven company culture.
 </h3>
 
 
@@ -13,10 +13,9 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 
 
 <p align="center">
-<img src="https://weekdone.com/favicon.svg" height="24px" alt="Weekdone"> 
-<a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
-<a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=00E5FF" height="24px" alt="✨"></a> 
-<a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=%E2%80%8E&logo=GoogleChrome&logoColor=00E5FF&style=flat" height="24px" alt="✨"></a>
+<a href="https://apps.apple.com/app/weekdone/id668008030"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★½-informational?logo=AppStore&style=flat&color=000&logoColor=fff" height="24px" alt="✨"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.weekdone.android"><img src="https://img.shields.io/badge/%E2%80%8E-★★★★☆-informational?logo=GooglePlay&style=flat&color=000&logoColor=fff" height="24px" alt="✨"></a> 
+<a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=%E2%80%8E&logo=GoogleChrome&logoColor=fff&style=flat" height="24px" alt="✨"></a>
 </p> 
 
 > [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)  
@@ -34,7 +33,7 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 
 
 <details>
-<summary>✍ blog.weekdone.com</summary>
+<summary>✍ blog</summary>
 
 ***
  
@@ -48,7 +47,7 @@ We offer <a href="https://weekdone.com/">OKR software and coaching</a> to ensure
 </details>
 
 <details>
-<summary>🎬 Youtube videos</summary>
+<summary>🎬 videos</summary>
   
 ***
  
