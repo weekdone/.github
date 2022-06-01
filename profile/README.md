@@ -22,6 +22,9 @@
 
 <details>
 <summary><a href="https://twitter.com/weekdone">@weekdone</a> tweets</summary>
+
+***
+    
 <!-- TWITTER:START -->
 - [Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedbac...](https://twitter.com/weekdone/status/1527635605085163520)
 - [Are you using intrinsic rewards to keep your employees motivated for the long haul? Read our recent blog post sharing the benefi...](https://twitter.com/weekdone/status/1522592360865366017)
