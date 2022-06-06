@@ -18,7 +18,7 @@
 <a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=%E2%80%8E&logo=GoogleChrome&logoColor=2962FF&labelColor=fff&style=flat" height="24px" alt="✨"></a>
 </p> 
 
-> [<!-- TWEET:START -->Leading 1:1 weekly reviews for your team members is more effective and informative with the PPP methodology + reciprocal feedback! Read more in our most recent article + an infographic and free printable Productivity Notebook inside! 👍<!-- TWEET:END -->](https://twitter.com/weekdone)  
+> [<!-- TWEET:START -->[Action required] Your RSS.app Trial has Expired.<!-- TWEET:END -->](https://twitter.com/weekdone)  
 
 <details>
 <summary><a href="https://twitter.com/weekdone">@weekdone</a> tweets</summary>
