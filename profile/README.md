@@ -74,7 +74,7 @@
 
 <a href="https://weekdone.com/about/press"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Inc._%28business_magazine%29_logo.svg" alt="INC" height="24px"></a>
 
-[![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m791916847-0e51230a992b1966f42170e8)](#)
+[![Uptime Robot](https://img.shields.io/uptimerobot/ratio/7/m791916847-0e51230a992b1966f42170e8)](#)
 [![Capterra](https://img.shields.io/badge/Capterra-★★★★☆-informational?style=flat&color=success&logoColor=555&color=000&labelColor=fff)](https://www.capterra.com/p/165423/Weekdone/)
 [![G2](https://img.shields.io/badge/%E2%80%8E-★★★★½-informational?logo=G2&style=flat&color=success&logoColor=555&color=000&labelColor=fff)](https://www.g2.com/products/weekdone)
 [![](https://img.shields.io/badge/McAfee-secure-75160D?logo=mcafee&labelColor=C01818)](#)
