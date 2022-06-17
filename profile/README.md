@@ -18,19 +18,14 @@
 <a href="https://chrome.google.com/webstore/detail/weekdone-plan-and-share-y/bbecdibpbedkfjhgipnjgkalhedefegj"><img src="https://img.shields.io/chrome-web-store/stars/bbecdibpbedkfjhgipnjgkalhedefegj?color=000&label=%E2%80%8E&logo=GoogleChrome&logoColor=2962FF&labelColor=fff&style=flat" height="24px" alt="✨"></a>
 </p> 
 
-> [<!-- TWEET:START -->[Action required] Your RSS.app Trial has Expired.<!-- TWEET:END -->](https://twitter.com/weekdone)  
-
 <details>
 <summary><a href="https://twitter.com/weekdone">@weekdone</a> tweets</summary>
 
 ***
     
-<!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- TWITTER:END -->
+## [Follow us on @weekdone](https://twitter.com/weekdone)
+
 </details>
-
-
 <details>
 <summary>✍ blog</summary>
 
