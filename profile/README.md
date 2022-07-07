@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
-- [OKR Examples for Sales Teams](https://www.youtube.com/watch?v=1pnPr9YYLmM)
-- [OKR Examples for Product Team](https://www.youtube.com/watch?v=nWkkWyq5td8)
-- [How to set good OKRs](https://www.youtube.com/watch?v=l6tJJwoA1HY)
-- [Marketing Team OKR Example](https://www.youtube.com/watch?v=-ojNTWKQgWk)
-- [OKR example for HR](https://www.youtube.com/watch?v=oLgJ6nIHPH0)
+- [OKRs &amp; KPIs – What’s the difference?](https://www.youtube.com/watch?v=KbiJBztD-zw)
+- [Outputs &amp; Outcomes – What&#39;s the difference?](https://www.youtube.com/watch?v=70LaT3D4N44)
+- [OKR Software Tips: Setting and Aligning OKRs in Weekdone](https://www.youtube.com/watch?v=NG9HlV-uEXE)
+- [OKR Software Tips: Managing Teams in Weekdone](https://www.youtube.com/watch?v=CE2UKENxkXU)
+- [OKR Software Tips: Team and Department Setup in Weekdone](https://www.youtube.com/watch?v=fm8tBfjsuKY)
 <!-- YOUTUBE:END -->
 </details>
 
