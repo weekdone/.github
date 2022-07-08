@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [How To Measure Your OKRs Successfully – Weekdone Webinar](https://www.youtube.com/watch?v=K-30LOT8ae8)
 - [OKRs &amp; KPIs – What’s the difference?](https://www.youtube.com/watch?v=KbiJBztD-zw)
 - [Outputs &amp; Outcomes – What&#39;s the difference?](https://www.youtube.com/watch?v=70LaT3D4N44)
 - [OKR Software Tips: Setting and Aligning OKRs in Weekdone](https://www.youtube.com/watch?v=NG9HlV-uEXE)
 - [OKR Software Tips: Managing Teams in Weekdone](https://www.youtube.com/watch?v=CE2UKENxkXU)
-- [OKR Software Tips: Team and Department Setup in Weekdone](https://www.youtube.com/watch?v=fm8tBfjsuKY)
 <!-- YOUTUBE:END -->
 </details>
 
