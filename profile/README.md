@@ -32,7 +32,7 @@
 ***
  
 <!-- BLOG-POST-LIST:START -->
-- [Drive Excellence with 24 Real-World Leadership OKR Examples](https://blog.weekdone.com/leadership-okr-examples/)
+- [24 Leadership OKR Examples to Lead with Purpose](https://blog.weekdone.com/leadership-okr-examples/)
 - [Streamline Communication: Top 5 OKR Software + Slack Integration](https://blog.weekdone.com/okr-software-and-slack-integration/)
 - [OKRs For Enterprises 2022: Tips, Examples, Best Tools](https://blog.weekdone.com/okrs-for-enterprises/)
 - [15 Best OKR Examples for Software Development](https://blog.weekdone.com/okr-examples-for-software-development/)
