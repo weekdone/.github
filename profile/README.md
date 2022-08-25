@@ -60,7 +60,7 @@
 [![Facebook](https://img.shields.io/badge/%E2%80%8E-5/5-informational?logo=Facebook&color=000&logoColor=fff&labelColor=1877F2&style=flat)](https://facebook.com/weekdone) 
 [![LinkedIn](https://img.shields.io/badge/%E2%80%8E-hiring-informational?logo=linkedin&color=000&logoColor=fff&labelColor=0072b1&style=flat)](https://linkedin.com/company/weekdone) 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEykuC3As2n7kzTei7hGn1Q?color=000&logoColor=fff&label=%E2%80%8E&logo=youtube&style=flat-square&labelColor=f00)](https://youtube.com/user/weekdone) 
-[![Dribbble](https://img.shields.io/badge/%E2%80%8E-pro-informational?logo=dribbble&color=000&logoColor=fff&labelColor=ea4c89&style=flat)]([https://linkedin.com/company/weekdone](https://dribbble.com/weekdone)) 
+[![Dribbble](https://img.shields.io/badge/%E2%80%8E-pro-informational?logo=dribbble&color=000&logoColor=fff&labelColor=ea4c89&style=flat)](https://dribbble.com/weekdone)
 
 > [..] apps for the corporate world that take a consumer approach in terms of design, simplicity, social-esque features and a single-use focus.
 
