@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [How to use Weekdone - OKR Best Practices 101 &lpar;video 3/3&rpar;](https://www.youtube.com/watch?v=i0FQPK9h49U)
+- [How to write good OKRs - OKR Best Practices 101 &lpar;video 2/3&rpar;](https://www.youtube.com/watch?v=WK5sPFN18sE)
+- [OKR Alignment - OKR Best Practices 101 &lpar;video 1/3&rpar;](https://www.youtube.com/watch?v=Xb7DsCgY2CE)
+- [OKR Best Practices Course for Leaders - Intro](https://www.youtube.com/watch?v=7Jkia3rWhH8)
 - [OKRs &amp; KPIs – What’s the difference?](https://www.youtube.com/watch?v=KbiJBztD-zw)
-- [Outputs &amp; Outcomes – What&#39;s the difference?](https://www.youtube.com/watch?v=70LaT3D4N44)
-- [OKR Software Tips: Setting and Aligning OKRs in Weekdone](https://www.youtube.com/watch?v=NG9HlV-uEXE)
-- [OKR Software Tips: Managing Teams in Weekdone](https://www.youtube.com/watch?v=CE2UKENxkXU)
-- [OKR Software Tips: Team and Department Setup in Weekdone](https://www.youtube.com/watch?v=fm8tBfjsuKY)
 <!-- YOUTUBE:END -->
 </details>
 
