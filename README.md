@@ -1,9 +1,9 @@
 # .github
 We can use markdown to create a nicer public profile info
  <!-- BLOG-POST-LIST:START -->
+- [Decode the OKR vs KPI Conundrum: 10 Questions to Help Leaders Distinguish](https://blog.weekdone.com/okr-vs-kpi/)
+- [OKR vs KPI Examples: Differentiate to Make Goal-Setting Smarter](https://blog.weekdone.com/okr-vs-kpi-examples-differentiate-to-make-goal-setting-smarter/)
+- [Shift Your Mindset with Agile OKRs](https://blog.weekdone.com/okr-agile/)
 - [Initiatives are now Projects in Team Compass](https://blog.weekdone.com/initiatives-are-now-projects-in-team-compass/)
 - [What is OKR? OKR Meaning with Examples](https://blog.weekdone.com/okr-definition/)
-- [Accelerate the Adoption Curve! Use 10 OKR Best Practices](https://blog.weekdone.com/okr-best-practices-everything-you-need-to-know/)
-- [Goal-Setting Can be Complex! Make it Easier With OKR Templates](https://blog.weekdone.com/okr-templates-examples-how-to-write-great-objectives-and-key-results-free-excel-and-word-templates/)
-- [Are Your Goals Outcomes or Outputs? Learn How to Write OKRs](https://blog.weekdone.com/how-to-set-good-okrs/)
 <!-- BLOG-POST-LIST:END -->
