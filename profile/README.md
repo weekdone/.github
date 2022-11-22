@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [Acheive Business Growth with KPIs and OKRs - Weekdone October Live Webinar](https://www.youtube.com/watch?v=FsAwmnw9cvE)
 - [OKR Progress Update - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 3/3&rpar;](https://www.youtube.com/watch?v=WsnM2GR0IbQ)
 - [Cross-functional check-ins - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 2/3&rpar;](https://www.youtube.com/watch?v=cJPnw-j4Lbw)
 - [Internal Check-ins - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 1/3&rpar;](https://www.youtube.com/watch?v=CT3Y1r5vhWw)
 - [All You Need to Know to Launch OKRs Successfully - Weekdone November Live Webinar](https://www.youtube.com/watch?v=2dnVOiutgrk)
-- [How to use Weekdone - OKR Best Practices 101 &lpar;video 3/3&rpar;](https://www.youtube.com/watch?v=i0FQPK9h49U)
 <!-- YOUTUBE:END -->
 </details>
 
