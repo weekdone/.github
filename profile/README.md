@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [Kickstart Your Strategy into Action: Building a Goal Hierarchy with OKRs - Recorded Webinar+Q&amp;A](https://www.youtube.com/watch?v=jTbwY5s8EJ8)
+- [The OKR processes you didn’t know you needed – Increase success and adoption - Recorded Webinar+Q&amp;A](https://www.youtube.com/watch?v=Z6av0KpXqkQ)
 - [Collecting Insights in Weekdone - How to Facilitate OKR Progress with Productive Check-ins &lpar;Bonus&rpar;](https://www.youtube.com/watch?v=h3Asm7nAbls)
 - [KPIs vs OKRs - Achieve Business Growth with KPIs and OKRs - Weekdone October Live Webinar w/ Q&amp;As](https://www.youtube.com/watch?v=FsAwmnw9cvE)
 - [OKR Progress Update - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 3/3&rpar;](https://www.youtube.com/watch?v=WsnM2GR0IbQ)
-- [Cross-functional check-ins - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 2/3&rpar;](https://www.youtube.com/watch?v=cJPnw-j4Lbw)
-- [Internal Check-ins - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 1/3&rpar;](https://www.youtube.com/watch?v=CT3Y1r5vhWw)
 <!-- YOUTUBE:END -->
 </details>
 
