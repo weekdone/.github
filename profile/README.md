@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
-- [Kickstart Your Strategy into Action: Building a Goal Hierarchy with OKRs - Recorded Webinar+Q&amp;A](https://www.youtube.com/watch?v=jTbwY5s8EJ8)
-- [The OKR processes you didn’t know you needed – Increase success and adoption - Recorded Webinar+Q&amp;A](https://www.youtube.com/watch?v=Z6av0KpXqkQ)
-- [Collecting Insights in Weekdone - How to Facilitate OKR Progress with Productive Check-ins &lpar;Bonus&rpar;](https://www.youtube.com/watch?v=h3Asm7nAbls)
-- [KPIs vs OKRs - Achieve Business Growth with KPIs and OKRs - Weekdone October Live Webinar w/ Q&amp;As](https://www.youtube.com/watch?v=FsAwmnw9cvE)
-- [OKR Progress Update - How to Facilitate OKR Progress with Productive Check-ins &lpar;Video 3/3&rpar;](https://www.youtube.com/watch?v=WsnM2GR0IbQ)
+- [Should Development Teams use OKRs? - OKR Challenges and how to fix them #3](https://www.youtube.com/watch?v=vzVy2wAtkHE)
+- [How to Use Shared OKRs - OKR Challenges and how to fix them #2](https://www.youtube.com/watch?v=pFSCs7rhCuw)
+- [How to make OKRs more engaging? - OKR Challenges and how to fix them #1](https://www.youtube.com/watch?v=YVEM4yIDt5Y)
+- [Weekdone](https://www.youtube.com/watch?v=RlAMrrZ9oHw)
+- [From spreadsheets or docs to OKR software - Questions on OKRs #4](https://www.youtube.com/watch?v=N0PhwB8nf_E)
 <!-- YOUTUBE:END -->
 </details>
 
