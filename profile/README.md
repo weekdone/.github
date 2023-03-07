@@ -49,7 +49,7 @@
 - [Should Development Teams use OKRs? - OKR Challenges and how to fix them #3](https://www.youtube.com/watch?v=vzVy2wAtkHE)
 - [How to Use Shared OKRs - OKR Challenges and how to fix them #2](https://www.youtube.com/watch?v=pFSCs7rhCuw)
 - [How to make OKRs more engaging? - OKR Challenges and how to fix them #1](https://www.youtube.com/watch?v=YVEM4yIDt5Y)
-- [Weekdone](https://www.youtube.com/watch?v=RlAMrrZ9oHw)
+- [Can we use OKRs before product/market fit?](https://www.youtube.com/watch?v=RlAMrrZ9oHw)
 - [From spreadsheets or docs to OKR software - Questions on OKRs #4](https://www.youtube.com/watch?v=N0PhwB8nf_E)
 <!-- YOUTUBE:END -->
 </details>
