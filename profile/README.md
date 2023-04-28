@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [Getting Started with OKRs. Part 2: Writing OKRs that Improve Business Performance – Weekdone Webinar](https://www.youtube.com/watch?v=yGtBQ0DHFys)
 - [Getting Started with OKRs. Part 1: Learn, Implement, and Execute OKRs – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=IWDta2bEM90)
 - [How To Launch OKRs The Right Way – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=Nat7sIXcy4c)
 - [How OKRs Can Succeed Where Projects and KPIs Fail – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=y4k1-A44igg)
 - [Will OKRs Work for Your Organization? – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=i9T9alVr4DE)
-- [Writing Inspiring OKRs that Nurture Creativity and Bring Innovation – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=VM2NtwKZL8Q)
 <!-- YOUTUBE:END -->
 </details>
 
