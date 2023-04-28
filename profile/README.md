@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [How To Launch OKRs The Right Way – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=Nat7sIXcy4c)
+- [How OKRs Can Succeed Where Projects and KPIs Fail – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=y4k1-A44igg)
 - [Will OKRs Work for Your Organization? – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=i9T9alVr4DE)
 - [Writing Inspiring OKRs that Nurture Creativity and Bring Innovation – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=VM2NtwKZL8Q)
 - [How To Measure Your OKRs Successfully – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=nO2cQX2-Nww)
-- [5 Things You Can Improve for More Impactful OKRs – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=IXvnXT-UYmA)
-- [Should Development Teams use OKRs? - OKR Challenges and how to fix them #3](https://www.youtube.com/watch?v=vzVy2wAtkHE)
 <!-- YOUTUBE:END -->
 </details>
 
