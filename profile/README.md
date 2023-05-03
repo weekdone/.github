@@ -46,11 +46,11 @@
 ***
  
 <!-- YOUTUBE:START -->
+- [OKRs &amp; KPIs: What Are the Differences, Similarities and How to Master Them Both – Weekdone Webinar](https://www.youtube.com/watch?v=GJ9Zy9z0_bk)
 - [How to Roll Out a Company Strategy by Using OKRs – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=eEV-GIqWBpE)
 - [Managing OKRs: How to Set Them Up to Drive Engagement – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=tRMZjy0AtE8)
 - [Why You Should Use OKRs &amp; KPIs Together – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=6Yqxh2HQsnc)
 - [Getting Started with OKRs. Part 2: Writing OKRs that Improve Business Performance – Weekdone Webinar](https://www.youtube.com/watch?v=yGtBQ0DHFys)
-- [Getting Started with OKRs. Part 1: Learn, Implement, and Execute OKRs – Weekdone Webinar with Q&amp;A](https://www.youtube.com/watch?v=IWDta2bEM90)
 <!-- YOUTUBE:END -->
 </details>
 
